@@ -1,4 +1,4 @@
-This is one of the classification example using unsupervised lerning.
+This is one of the classification example using unsupervised lerning(K-Means Clustering).
 
 From Coursera Course Task
 
